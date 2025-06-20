@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn[standard]
+aio-pika               # RabbitMQ client
+redis
+transformers
+torch                  # or torch-cpu if no GPU
+python-dotenv          # for env-vars if you like
+spacy
