@@ -1,4 +1,4 @@
-![icon][./icon.png]
+![icon](./icon.png)
 
 # Dev Salad
 > A machine-learning powered dev trend analysis service
