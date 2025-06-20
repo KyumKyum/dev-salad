@@ -1,4 +1,4 @@
-![icon](./icon.png)
+<img src="icon.png" alt="Dev Salad logo" width="200"/>
 
 # Dev Salad
 > A machine-learning powered dev trend analysis service
